@@ -1,0 +1,43 @@
+
+
+.kontainer {
+    width: 500px;
+    margin: 0 auto;
+    margin-top: 5em;
+}
+
+.spelplan {
+    display: flex;
+    flex-wrap: wrap;
+    height: 400px;
+    width: 100%;
+    border: 3px solid grey;
+    background-color: aliceblue;
+}
+
+.spelplan img {
+    height: 96px;
+    width: 96px;
+}
+
+img {
+    border: 1px solid grey;
+    margin: 1px;
+}
+
+header {
+    height: 150px;
+    background-color: brown;
+    display: flex; 
+    justify-content: space-between;
+}
+
+h1 {
+    padding-top: 1em;
+    padding-left: 3em;
+}
+
+#stats {
+    padding-top: 1em;
+    padding-right: 3em;
+}
